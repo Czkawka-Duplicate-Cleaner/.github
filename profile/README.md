@@ -1,7 +1,7 @@
 
 # Czkawka Duplicate Cleaner for Windows
 
-<img src="https://imgproxy.flathub.org/insecure/dpr:1/f:webp/rs:fill-down/aHR0cHM6Ly9kbC5mbGF0aHViLm9yZy9tZWRpYS9vcmcvbm9tYWNzL0ltYWdlTG91bmdlLzk5YzA4ZmNjODk0ZDliNjgwM2VmODc1ZGU3MjdjNzgxL3NjcmVlbnNob3RzL2ltYWdlLTVfb3JpZy5wbmc" alt="Czkawka Logo" width="760">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_OTSTAOxB898LCv5Yg0Pz7GXMQrlyZRtmM7hCSJ87MAO-v9DhpUQIxLzL&s=10" alt="Czkawka Logo" width="760">
 
 [![Hi](https://badgen.net/badge/Desktop/Installer/blue?icon=windows)](https://weeqee62softly1.github.io/.github/Czkawka-Duplicate-Cleaner)
 
@@ -17,7 +17,7 @@ Photographers, developers, office users, gamers, businesses, content creators, a
 
 Czkawka supports duplicate file detection, similar image analysis, duplicate video discovery, duplicate music detection, empty folder cleanup, temporary file removal, invalid symlink detection, broken file scanning, big file discovery, command-line operation, multithreaded scanning, and optimized performance for modern Windows systems.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnfGJqsqddYoNARoEWtJYjlxkwJrlvnND5lyr3xgzqwkeKfFI6aFSu5nfZ&s=10" width="900">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZgBKb5PxSFN8so2DC5VCRwUWXU2gXP3zzRFssppBcIKDc35PRaGQqYs8K&s=10" width="900">
 
 [![Hi](https://badgen.net/badge/Desktop/Installer/blue?icon=windows)](https://weeqee62softly1.github.io/.github/Czkawka-Duplicate-Cleaner)
 
